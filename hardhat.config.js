@@ -55,7 +55,7 @@ module.exports = {
     },
     etherscan: {
         apiKey: {
-            rinkeby: 'R2DXFTWKN1EAAFMRCZAKSCAEUA9SYT6G19'
+            rinkeby: ''
         }
     },
     gasReporter: {
